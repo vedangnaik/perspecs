@@ -6,7 +6,7 @@ In this model, the custom nosepeice and temples allow for all sorts of interesti
 
 ![image](https://user-images.githubusercontent.com/25436568/148285251-99660357-a8ac-4891-93b0-0f7d8de47d6c.png)
 
-*Note: Do not expect them to work out of the box for yours. This is a personal project, custom-modelled for my prescription lenses. However, the models should make a good starting point for customization.*
+*Note: These models have been custom-made for my prescription lenses. Do not expect them to work out of the box for yours. However, the models should make a good starting point for customization.*
 
 ## Parts
 1. 3D-printer-ready PLA plastic
